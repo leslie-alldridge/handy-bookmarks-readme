@@ -98,7 +98,3 @@ https://www.cubeskills.com/uploads/pdf/tutorials/oll-algorithms.pdf
 
 angular firebase
 https://www.youtube.com/watch?v=jNCzuSryJHE
-
-add better styling to this readme so it's not a dumping ground
-
-ok styling might never happen :) :)
