@@ -6,4 +6,4 @@ https://medium.com/@nelliemckesson/building-a-slack-bot-with-node-js-to-query-ch
 
 https://www.npmjs.com/package/@slack/client
 
-https://www.youtube.com/watch?v=KLCnTjB0w_o - react redux checkout summary
+
