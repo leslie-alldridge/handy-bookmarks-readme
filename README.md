@@ -7,5 +7,5 @@ https://medium.com/@nelliemckesson/building-a-slack-bot-with-node-js-to-query-ch
 https://www.npmjs.com/package/@slack/client
 
 storefront idea?
-https://youtu.be/T_HtlP80UYc?t=587  in progress
+https://youtu.be/T_HtlP80UYc?t=587  in progress (29min in)
 https://www.youtube.com/watch?v=5G3zSueEYuo
