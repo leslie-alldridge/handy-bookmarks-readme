@@ -17,3 +17,7 @@ javascript cardio
 2 https://www.youtube.com/watch?v=FfchU1FS2IA
 
 3 https://youtu.be/tcoiPHktCwQ
+
+# Other notes
+
+upload python script from desktop that sends forms in a loop
