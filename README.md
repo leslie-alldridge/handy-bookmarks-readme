@@ -18,6 +18,8 @@ javascript cardio
 
 3 https://youtu.be/tcoiPHktCwQ
 
+Ruby
+https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3 delete stage
 # Other notes
 
 upload python script from desktop that sends forms in a loop
