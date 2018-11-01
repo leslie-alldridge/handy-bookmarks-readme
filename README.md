@@ -20,5 +20,9 @@ javascript cardio
 
 Ruby
 https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3 delete stage
+
+C# with React
+https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide-5a2d001744c4
+
 # Other notes
 
