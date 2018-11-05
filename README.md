@@ -26,3 +26,6 @@ https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide
 
 # Other notes
 
+https://www.youtube.com/watch?v=2yXfUPwlZTw
+django
+
