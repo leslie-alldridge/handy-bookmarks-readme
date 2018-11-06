@@ -30,6 +30,5 @@ https://www.youtube.com/watch?v=2yXfUPwlZTw
 django
 
 
-typescript
-https://www.youtube.com/watch?v=tS6czSZW2oo
-
+typescript boilerplate for my app that isn't bundling properly atm
+https://github.com/rokoroku/react-redux-typescript-boilerplate/blob/master/src/app/containers/App/style.css
