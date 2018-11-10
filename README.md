@@ -30,8 +30,5 @@ https://www.youtube.com/watch?v=2yXfUPwlZTw
 django
 
 
-typescript boilerplate for my app that isn't bundling properly atm
-https://github.com/rokoroku/react-redux-typescript-boilerplate/blob/master/src/app/containers/App/style.css
-
 docker typescript
 https://meshstudio.io/blog/2017-12-13-intro-to-docker-with-typescript/
