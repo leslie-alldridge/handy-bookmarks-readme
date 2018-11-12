@@ -30,3 +30,4 @@ https://www.youtube.com/watch?v=2yXfUPwlZTw
 django
 
 typescript redux scaffolding
+https://github.com/Lemoncode/from-react-to-redux-ts/blob/master/03%20Add%20redux/src/store.ts
