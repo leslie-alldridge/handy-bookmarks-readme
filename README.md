@@ -29,6 +29,3 @@ https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide
 https://www.youtube.com/watch?v=2yXfUPwlZTw
 django
 
-
-docker typescript
-https://meshstudio.io/blog/2017-12-13-intro-to-docker-with-typescript/
