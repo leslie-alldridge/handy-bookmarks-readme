@@ -29,3 +29,4 @@ https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide
 https://www.youtube.com/watch?v=2yXfUPwlZTw
 django
 
+typescript redux scaffolding
