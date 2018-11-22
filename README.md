@@ -35,3 +35,7 @@ https://github.com/Lemoncode/from-react-to-redux-ts/blob/master/03%20Add%20redux
 
 semantic docs 
 https://semantic-ui.com/
+
+
+firebase edit votes 
+https://github.com/leslie-alldridge/expensify-app/blob/master/src/actions/expenses.js
