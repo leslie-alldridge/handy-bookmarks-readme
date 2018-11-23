@@ -40,5 +40,8 @@ https://semantic-ui.com/
 firebase edit votes 
 https://github.com/leslie-alldridge/expensify-app/blob/master/src/actions/expenses.js
 
-file up / download 
-https://codeburst.io/asynchronous-file-upload-with-node-and-react-ea2ed47306dd
+file up / download - need to get around cors using express
+
+user management
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
+
