@@ -45,3 +45,11 @@ file up / download - need to get around cors using express
 user management
 https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
 
+## Ideas / TODOs 
+
+Create app for daily tasks / self progression
+
+Start journaling on a website and set clear goals 
+
+Continue to code daily
+
