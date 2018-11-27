@@ -45,6 +45,9 @@ file up / download - need to get around cors using express
 user management
 https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
 
+OLL PDF
+https://www.cubeskills.com/uploads/pdf/tutorials/oll-algorithms.pdf
+
 ## Ideas / TODOs 
 
 Create app for daily tasks / self progression
@@ -52,4 +55,6 @@ Create app for daily tasks / self progression
 Start journaling on a website and set clear goals 
 
 Continue to code daily
+
+
 
