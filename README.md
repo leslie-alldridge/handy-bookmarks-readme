@@ -54,11 +54,5 @@ Create app for daily tasks / self progression
 
 Start journaling on a website and set clear goals 
 
-Continue to code daily
-
-super smash bros 
-
-https://www.freecodecamp.org/news/beaucarnes/platformer-game-turorial-javascript--m1JO9zlF4
-
 angular firebase
 https://www.youtube.com/watch?v=jNCzuSryJHE
