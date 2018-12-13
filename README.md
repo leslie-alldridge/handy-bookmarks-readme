@@ -56,3 +56,5 @@ Start journaling on a website and set clear goals
 
 angular firebase
 https://www.youtube.com/watch?v=jNCzuSryJHE
+
+add better styling to this readme so it's not a dumping ground
