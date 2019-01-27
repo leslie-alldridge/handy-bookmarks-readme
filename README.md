@@ -1,22 +1,22 @@
 # Projects TODOS
 
-Storefront React website
-Voongs website
-OLL Trainer
-Python Snake
-Java Snake
-Golang Advanced Project
-Ruby on Rails Todo
-React LinkedIn Guide State and Props
-Tech Voting V2
-Enzyme and Jest Tutorials
-Add and Render Chat on Go Sockets Project
-Build out the Django API Frontend Project 
-Angular Firebase todo list project
-Typescript BackPacker and Typescript CFOP OLL 
-Add graphs to random react graphs project
-Complete files upload for Express Server files mgmt project
-Dont miss out Slackbot
+- Storefront React website
+- Voongs website
+- OLL Trainer
+- Python Snake
+- Java Snake
+- Golang Advanced Project
+- Ruby on Rails Todo
+- React LinkedIn Guide State and Props
+- Tech Voting V2
+- Enzyme and Jest Tutorials
+- Add and Render Chat on Go Sockets Project
+- Build out the Django API Frontend Project 
+- Angular Firebase todo list project
+- Typescript BackPacker and Typescript CFOP OLL 
+- Add graphs to random react graphs project
+- Complete files upload for Express Server files mgmt project
+- Dont miss out Slackbot
 
 # handy-bookmarks-readme
 bookmarks relating to code that I want to read up on and learn from.
