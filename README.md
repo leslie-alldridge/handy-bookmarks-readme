@@ -5,10 +5,9 @@
 - OLL Trainer
 - Python Snake
 - Java Snake
-- Golang Advanced Project
+- Golang Advanced Project - In Progress
 - Ruby on Rails Todo
 - React LinkedIn Guide State and Props
-- Tech Voting V2
 - Enzyme and Jest Tutorials
 - Add and Render Chat on Go Sockets Project
 - Build out the Django API Frontend Project 
