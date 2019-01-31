@@ -1,13 +1,10 @@
 # Projects TODOS
-
+- Killer boilerplate Django, Redux, React, API, SQLite3, Python, Docker, Deployed
 - Storefront React website
 - Voongs website
 - OLL Trainer
-- Python Snake
 - Java Snake
-- Golang Advanced Project - In Progress
 - Ruby on Rails Todo
-- React LinkedIn Guide State and Props
 - Enzyme and Jest Tutorials
 - Add and Render Chat on Go Sockets Project
 - Build out the Django API Frontend Project 
@@ -15,7 +12,18 @@
 - Typescript BackPacker and Typescript CFOP OLL 
 - Add graphs to random react graphs project
 - Complete files upload for Express Server files mgmt project
-- Dont miss out Slackbot
+- Dont miss out Slackbot?
+- Vue JS code along?
+- C# projects / guide?
+## In Progress
+- eCards project - In progress
+- Golang Advanced Project - In Progress
+- Python Snake - In Progress
+
+## Done
+- React LinkedIn Guide State and Props
+
+
 
 # handy-bookmarks-readme
 bookmarks relating to code that I want to read up on and learn from.
