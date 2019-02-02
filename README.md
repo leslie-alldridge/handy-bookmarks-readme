@@ -1,5 +1,4 @@
 # Projects TODOS
-- Best boilerplate Django, Redux, React, API, SQLite3, Python, Docker, Deployed
 - Storefront React website
 - Voongs website
 - OLL Trainer
@@ -24,6 +23,7 @@
 - React LinkedIn Guide State and Props
 - Pre Best boilerplate project
 - eCards project
+- Best boilerplate Django, Redux, React, API, SQLite3, Python, Docker, Deployed
 
 
 # handy-bookmarks-readme
