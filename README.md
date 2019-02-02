@@ -1,5 +1,5 @@
 # Projects TODOS
-- Killer boilerplate Django, Redux, React, API, SQLite3, Python, Docker, Deployed
+- Best boilerplate Django, Redux, React, API, SQLite3, Python, Docker, Deployed
 - Storefront React website
 - Voongs website
 - OLL Trainer
@@ -15,14 +15,15 @@
 - Dont miss out Slackbot?
 - Vue JS code along?
 - C# projects / guide?
+
 ## In Progress
-- eCards project - In progress
 - Golang Advanced Project - In Progress
 - Python Snake - In Progress
 
 ## Done
 - React LinkedIn Guide State and Props
-
+- Pre Best boilerplate project
+- eCards project
 
 
 # handy-bookmarks-readme
@@ -81,3 +82,5 @@ angular firebase
 https://www.youtube.com/watch?v=jNCzuSryJHE
 
 add better styling to this readme so it's not a dumping ground
+
+ok styling might never happen :)
