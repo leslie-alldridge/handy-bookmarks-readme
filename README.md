@@ -3,7 +3,7 @@
 ## Main Page
 1. Typescript Backpacker
 2. GYST
-3. Portfolio Typescript
+3. Portfolio Typescript or React.Core boilerplate/project
 4. Python Flask full stack
 5. React + Django full stack boilerplate
 6. Golang project
@@ -15,6 +15,7 @@
 
 ### Important Goals
 - C# projects / guide?
+- Finish React.Core
 - Kubernetes 
 - Storefront React website
 - Voongs website
