@@ -1,23 +1,37 @@
 # Projects TODOS
+
+## Main Page
+1. Typescript Backpacker
+2. GYST
+3. Portfolio Typescript
+4. Python Flask full stack
+5. React + Django full stack boilerplate
+6. Golang project
+
+## In Progress
+- Typescript BackPacker - In Progress
+- Golang Advanced Project - In Progress
+- Python Snake - In Progress
+
+### Important Goals
+- C# projects / guide?
+- Kubernetes 
 - Storefront React website
 - Voongs website
 - OLL Trainer
 - Java Snake
 - Ruby on Rails Todo
 - Enzyme and Jest Tutorials
+
+### Not so important
 - Add and Render Chat on Go Sockets Project
 - Build out the Django API Frontend Project 
 - Angular Firebase todo list project
-- Typescript BackPacker and Typescript CFOP OLL 
+- Typescript CFOP OLL 
 - Add graphs to random react graphs project
 - Complete files upload for Express Server files mgmt project
 - Dont miss out Slackbot?
 - Vue JS code along?
-- C# projects / guide?
-
-## In Progress
-- Golang Advanced Project - In Progress
-- Python Snake - In Progress
 
 ## Done
 - React LinkedIn Guide State and Props
