@@ -1,21 +1,20 @@
 # Projects TODOS
 
 ## Main Page
-1. Typescript Backpacker
-2. GYST
-3. Portfolio Typescript or React.Core boilerplate/project
-4. Python Flask full stack
-5. React + Django full stack boilerplate
-6. Golang project
+1. Typescript Backpacker (TS)
+2. GYST (JS)
+3. MVC Membership App (c#)
+4. Python Flask full stack (Python)
+5. React + Django full stack boilerplate (React, Redux, Python)
+6. Golang project (Go)
 
 ## In Progress
-- Typescript BackPacker - In Progress
 - Golang Advanced Project - In Progress
 - Python Snake - In Progress
 
 ### Important Goals
 - C# projects / guide?
-- Finish React.Core
+- Finish React.Core?
 - Kubernetes 
 - Storefront React website
 - Voongs website
@@ -35,6 +34,7 @@
 - Vue JS code along?
 
 ## Done
+- Typescript BackPacker
 - React LinkedIn Guide State and Props
 - Pre Best boilerplate project
 - eCards project
