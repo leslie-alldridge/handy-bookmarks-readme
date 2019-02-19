@@ -11,6 +11,7 @@
 ## In Progress
 - Golang Advanced Project - In Progress
 - Python Snake - In Progress
+- Enzyme and Jest Tutorials (bookmarked)
 
 ### Important Goals
 - C# projects / guide?
@@ -21,7 +22,6 @@
 - OLL Trainer
 - Java Snake
 - Ruby on Rails Todo
-- Enzyme and Jest Tutorials
 
 ### Not so important
 - Add and Render Chat on Go Sockets Project
