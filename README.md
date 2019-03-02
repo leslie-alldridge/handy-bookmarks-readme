@@ -13,7 +13,6 @@
 
 - Golang Advanced Project - In Progress
 - Python Snake - In Progress
-- Enzyme and Jest Tutorials (bookmarked)
 - MVC Membership App (c#)
 - React competency app
 
@@ -38,7 +37,7 @@
 - Vue JS code along?
 
 ## Done
-
+- Enzyme and Jest Tutorials (bookmarked)
 - Typescript BackPacker
 - React LinkedIn Guide State and Props
 - Pre Best boilerplate project
